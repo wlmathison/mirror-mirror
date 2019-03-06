@@ -1,0 +1,19 @@
+#article-container {
+    display: flex;
+}
+
+#mirror1 {
+    border: 1px solid blue;
+    width: 50%;
+    min-height: 20px;
+    display: flex;
+    word-break: break-all; 
+}
+
+#mirror2 {
+    border: 1px solid red;
+    width: 50%;
+    min-height: 20px;
+    display: flex;
+    word-break: break-all; 
+}
